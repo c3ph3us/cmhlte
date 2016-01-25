@@ -1,7 +1,13 @@
 # cmhlte
-hltexx port of cm base on temasek cm
+hltexx port of cm based on temasek cm
 
-I. BUILD ROM SHORT HOW-TO
+I. GOALS FOR ROM 
+
+ - stability
+ - security 
+ - lightness
+
+II. BUILD ROM SHORT HOW-TO
 
 1. DOWNLOAD AND INSTALL REPO 
 
